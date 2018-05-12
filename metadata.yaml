@@ -1,0 +1,25 @@
+_repo: A-Virginia-Village_30054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stewart, Charles Alexander
+    gutenberg_agent_id: '34590'
+    url: http://www.gutenberg.org/2009/agents/34590
+description: The town of Falls Church -- The Old Colonial Church -- Falls Church in
+  the Civil War -- Churches and societies, etc.
+gutenberg_issued: '2009-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Falls Church (Va.) -- History'
+title: A Virginia Village
+url: http://www.gutenberg.org/ebooks/30054
