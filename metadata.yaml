@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34590
 description: The town of Falls Church -- The Old Colonial Church -- Falls Church in
   the Civil War -- Churches and societies, etc.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30054#A-Virginia-Village
 gutenberg_issued: '2009-11-06'
 gutenberg_type: Text
 identifiers:
